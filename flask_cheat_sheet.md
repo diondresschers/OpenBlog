@@ -44,3 +44,6 @@ if __name__ == '__main__':
 )$ export FLASK_APP=hello_world.py
 
 )$ flask run
+
+)$ python3 -m pip install flask-sqlalchemy
+

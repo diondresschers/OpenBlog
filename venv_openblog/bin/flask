@@ -1,5 +1,4 @@
-#!/mnt/c/Users/dhdresschers/git/py/flask/openblog/venv_openblog/bin/python3
-
+#!/home/dion/git/py/flask/OpenBlog/venv_openblog/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
